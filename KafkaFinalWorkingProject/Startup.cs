@@ -20,10 +20,9 @@ namespace KafkaFinalWorkingProject
         {
             services.AddControllers();
             services.AddSingleton<MongoDataService>();
-            // Добавяме MongoDB MovieService
+            
             services.AddSingleton<MovieService>();
 
-            // Добавяме Swagger
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
 

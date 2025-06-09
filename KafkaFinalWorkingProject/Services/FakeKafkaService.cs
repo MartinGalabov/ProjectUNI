@@ -11,7 +11,7 @@
 
         public List<string> Consume()
         {
-            // Връща копие на всички съобщения
+
             return _messages.ToList();
         }
     }

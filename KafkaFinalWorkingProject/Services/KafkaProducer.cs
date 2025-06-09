@@ -6,7 +6,7 @@ namespace KafkaFinalWorkingProject.Services
     {
         public void Publish(Movie movie)
         {
-            // Публикуване във фалшивата Kafka опашка
+
             InMemoryKafkaQueue.Queue.Enqueue(movie);
             Console.WriteLine($"[KafkaProducer] Published: {movie.Title}");
         }

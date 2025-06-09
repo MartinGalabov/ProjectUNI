@@ -6,7 +6,7 @@ namespace KafkaFinalWorkingProject.Services
 {
     public class MovieService
     {
-        // Примерен метод за връщане на филми
+
         public List<Movie> GetAllMovies()
         {
             return new List<Movie>
