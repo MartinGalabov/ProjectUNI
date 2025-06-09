@@ -1,9 +1,9 @@
-﻿using KafkaFinalWorkingProject.Models;
-using KafkaFinalWorkingProject.Services;
+﻿using FinalWorkingProject.Models;
+using FinalWorkingProject.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
-namespace KafkaFinalWorkingProject.Controllers
+namespace FinalWorkingProject.Controllers
 {
     [ApiController]
     [Route("kafka")]

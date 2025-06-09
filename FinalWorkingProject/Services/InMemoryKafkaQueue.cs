@@ -1,7 +1,7 @@
-﻿using KafkaFinalWorkingProject.Models;
+﻿using FinalWorkingProject.Models;
 using System.Collections.Generic;
 
-namespace KafkaFinalWorkingProject.Services
+namespace FinalWorkingProject.Services
 {
     public static class InMemoryKafkaQueue
     {

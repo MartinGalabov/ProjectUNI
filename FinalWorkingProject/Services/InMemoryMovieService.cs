@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using KafkaFinalWorkingProject.Models;
+using FinalWorkingProject.Models;
 
-namespace KafkaFinalWorkingProject.Services
+namespace FinalWorkingProject.Services
 {
     public class InMemoryMovieService
     {

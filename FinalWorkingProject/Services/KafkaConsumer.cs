@@ -1,6 +1,6 @@
-using KafkaFinalWorkingProject.Models;
+using FinalWorkingProject.Models;
 
-namespace KafkaFinalWorkingProject.Services
+namespace FinalWorkingProject.Services
 {
     public class KafkaConsumer
     {

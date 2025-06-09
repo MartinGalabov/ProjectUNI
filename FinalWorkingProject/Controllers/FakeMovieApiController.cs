@@ -1,7 +1,7 @@
-﻿using KafkaFinalWorkingProject.Models;
+﻿using FinalWorkingProject.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace KafkaFinalWorkingProject.Controllers
+namespace FinalWorkingProject.Controllers
 {
     [ApiController]
     [Route("api/external/movies")]

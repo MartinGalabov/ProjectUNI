@@ -1,4 +1,4 @@
-﻿namespace KafkaFinalWorkingProject.Services
+﻿namespace FinalWorkingProject.Services
 {
     public class FakeKafkaService
     {

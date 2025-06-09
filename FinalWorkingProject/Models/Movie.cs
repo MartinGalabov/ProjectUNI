@@ -1,7 +1,7 @@
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace KafkaFinalWorkingProject.Models
+namespace FinalWorkingProject.Models
 {
     public class Movie
     {
